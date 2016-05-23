@@ -1,0 +1,6 @@
+framework module DataSafeParser {
+  umbrella header "DataSafeParser-umbrella.h"
+
+  export *
+  module * { export * }
+}
